@@ -1,9 +1,9 @@
 * {
-  color: rgba(0, 0, 0, 0.763);
+  color: #000000c3;
 }
 
-.mainHead {
-display: flex;
+.mainhead {
+  display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
@@ -11,21 +11,20 @@ display: flex;
   margin-top: 30px;
   margin-bottom: 30px;
   border-radius: 0.5%;
-  padding-bottom: 20px; 
+  padding-bottom: 20px;
 }
 
-.mainHead h1 {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+.mainhead h1 {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
   font-size: 2.5rem;
   margin-bottom: 0;
 }
 
-.mainHead p {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+.mainhead p {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
   margin-top: 0.5;
   margin-bottom: 0;
-
-}
+ }
 .header {
   display: flex;
   align-items: center;
